@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+body {
+    background: dimgray
+}
+
+
+header {
+    background: lightgrey;
+    width: 80%;
+
+    padding: 25px;
+    margin: auto;
+    text-align: center;
+    float: left;
+    }
+
+
+    nav {
+        background: lightgrey;
+    width: 80%;
+    
+    padding: 25px;
+    margin: auto;
+    text-align: center;
+    float: left;
+    }
+
+    section {
+        
+        background: lightgrey;
+    width: 40%;
+    
+    padding: 25px;
+    text-align: center;
+    float: left;
+    }
+
+aside {
+    background: lightgrey;
+    width: 40%;
+    
+    padding: 25px;
+    text-align: center;
+    float: left;
+    overflow: both;
+}
+
+    footer {
+        background: lightgrey;
+    width: 80%;
+    
+    padding: 25px;
+    margin: auto;
+    text-align: center;
+    float: left;
+    clear: both;
+    }
+
+    /*
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+header {
+    
+
+
+
+
+
+    */
